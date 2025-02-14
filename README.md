@@ -2,6 +2,10 @@
 
 📌 Submission for the **C4AI Scholars Program Take-Home Challenge** (Sept 2024)
 
+The repo contains two files which you can directly access from the colab links below:
+- Original task: [colab](https://colab.research.google.com/drive/1oLFxq8Lnr78MATipjYbnzS7lMgita3DI?usp=sharing)
+- My completion with output displayed: [colab](https://colab.research.google.com/drive/1pqKrzmJjkxlpq0CkD3KZYwZLM7aLCBqq?usp=sharing)
+
 ## Project Notes
 The project covers building, training, and aligning a LLAMA-like SmolLM-135M model. 
 
